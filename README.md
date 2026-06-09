@@ -102,19 +102,6 @@ const ali = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=alitermos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0c14&title_color=4a7cf5&icon_color=4a7cf5&text_color=9ba3c0&ring_color=4a7cf5" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alitermos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0c14&title_color=4a7cf5&text_color=9ba3c0&langs_count=8" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=alitermos&theme=tokyonight&hide_border=true&background=0a0c14&stroke=1e2438&ring=4a7cf5&fire=f97316&currStreakLabel=4a7cf5&sideLabels=9ba3c0&dates=5a6280&currStreakNum=eef0f8&sideNums=eef0f8" />
-</div>
-
----
-
 ## 🚀 Personal Projects
 
 ### ReservEase
@@ -166,7 +153,6 @@ Dynamic portfolio driven by Salesforce custom objects, featuring a skill radar c
 <div align="center">
 
 <!-- Activity graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=alitermos&bg_color=0a0c14&color=4a7cf5&line=4a7cf5&point=f97316&area=true&area_color=4a7cf5&hide_border=true" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4a7cf5&height=80&section=footer" />
 
